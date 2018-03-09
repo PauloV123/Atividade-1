@@ -1,0 +1,15 @@
+Paulo Victor R. Setúbal		RA: 22117021-0
+CC3642 Orientação a Objetos
+07/03/2018
+
+Similaridades e diferenças encontradas entre C++ e Java:
+	-Ambas as linguagens possuem o esquema de orientação por objeto;
+	- Ambas as linguagens podem criar classes, parecido com uma struct em C, nessas classes podemos criar funções 
+	- Ambas possuem o comando de  "public" e "privade", mas no Java precisa especificar em todas as funções. Por exemplo:
+public void setAno(int novoAno){ 
+	ano = novoAno;
+ }
+public int getMes(){ 
+	return mes;
+}
+Ja no C++ podemos declarar antes das funções.
